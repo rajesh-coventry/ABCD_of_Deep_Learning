@@ -4,7 +4,7 @@ Welcome to **ABCD of Deep Learning**, a foundational educational series designed
 
 This repository explores the historical and conceptual evolution of Deep Learning, starting from the biological inspiration of the 1940s to the mathematical rigor of the Perceptron in the 1990s. It serves as a comprehensive "Chapter 0" for anyone wishing to understand the *why* and *how* behind modern Artificial Intelligence.
 
-## **🧠 Project Goal:**
+## **🧠 Goal:**
 
 The primary goal of this series is to demystify the core components of a neuron without jumping straight into complex libraries or black-box implementations. We build the understanding from the ground up:
 1.  **Biological Roots:** How biological neurons invoke the idea of artificial ones.
